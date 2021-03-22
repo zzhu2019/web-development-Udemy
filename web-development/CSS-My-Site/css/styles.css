@@ -1,0 +1,174 @@
+body {
+	color: #40514E;
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 1.1em;
+	/*font-weight: bold;*/
+}
+
+h1 {
+	color: #66BFBF;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	/*line-height: 2;*/
+	margin: 50px auto 0 auto;
+}
+
+h2 {
+	color: #66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+h3 {
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+	/*font-weight: bold;*/
+}
+
+hr {
+	border-color: #EAF6F6;
+	border-style: dotted none none none;
+	border-width: 6px;
+	height: 0px;
+	width: 4%;
+	margin: 100px auto;
+}
+
+p {
+	line-height: 2;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #11CDD4;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #30E3CD;
+   border: solid #337FED 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.code-img {
+	/*border-radius: 100%;*/
+	float: left;
+	width: 20%;
+	margin-right: 30px;
+}
+
+.code-skill-description {
+	/*clear: left;*/
+}
+
+.contact-me {
+	padding: 50px 0 50px 0;
+}
+
+.contact-message {
+	width: 40%;
+	margin: 40px auto 60px;
+}
+
+.copyright-text {
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 20px 0;
+}
+
+.footer-link {
+	color: #11999E;
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	width: 200px;
+	text-decoration: none;
+}
+
+.footer-link:hover {
+	color: #EAF6F6;
+	/*text-decoration: underline;*/
+}
+
+.intro {
+	width: 30%;
+	margin: auto;
+}
+
+.top-container {
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container {
+	margin: 100px 0;
+}
+
+.bottom-container {
+	background-color: #66BFBF;
+	padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 250px;
+	right: 300px;
+}
+
+.pro {
+	text-decoration: underline;
+}
+
+.profile {
+	padding-bottom: 50px;
+}
+
+.profile-img {
+	border-radius: 100%;
+}
+
+.skills {
+	padding-top: 50px;
+}
+
+.skill-row {
+	margin: 100px auto 100px auto;
+	text-align: left;
+	width: 50%;
+}
+
+.teamwork-img {
+	/*border-radius: 100%;*/
+	float: right;
+	width: 20%;
+	margin-left: 30px;
+}
+
+.teamwork-skill-description {
+	/*clear: right;*/
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 40px;
+}
